@@ -4,9 +4,9 @@ This repository contains code to experiment the K Medoids and K Centers algorith
 
 * `n.b.:` The paper talks about using Multidimensional FFT for a faster implementation, that is **not** done in this code base.
 * This work is supported by the NSF Grant IIS-1419739.
-* Summer 2016 Researchers: Dani Bork, Ricson Cheng, Jean Sung and Jincheng Wang (aka South Pawns!!).
-* Advisor: Prof Ran Libeskind-Hadas.
-* Email `jeansung94@gmail.com` to get access to past [experimental results](https://drive.google.com/drive/u/0/folders/0B9z84Or5GzOnX21VcjhlbXdYS0E).
+* 2023 Researcher: Chandra Marpuri
+* Advisor: Prof Christine Fiddis.
+* Email `csmapruri@gmail.com` to get access to past [experimental results](https://drive.google.com/drive/u/0/folders/0B9z84Or5GzOnX21VcjhlbXdYS0E).
 
 
 ## For the casual user
@@ -163,4 +163,4 @@ Implemented a function `get_weighted_template()` that returns a randomly chosen 
 * `newickFormatReader.py`
 * `TreeLifeData/`
 
-Documentation written by Jean!
+Documentation written by Chandra!
