@@ -3,7 +3,7 @@
 This repository contains code to experiment the K Medoids and K Centers algorithms with real data from the Tree of Life Data set. This work accompanies *Clustering Algorithms for Maximum Parsimony DTL Reconciliations*. 
 
 * `n.b.:` The paper talks about using Multidimensional FFT for a faster implementation, that is **not** done in this code base.
-* This work is supported by the NSF Grant IIS-1419739.
+* 
 * 2023 Researcher: Chandra Marpuri
 * Advisor: Prof Christine Fiddis.
 * Email `csmapruri@gmail.com` to get access to past [experimental results](https://drive.google.com/drive/u/0/folders/0B9z84Or5GzOnX21VcjhlbXdYS0E).
